@@ -1,0 +1,1 @@
+This is a plugin tool for Godot that updates editor settings based on a config file in the current project directory.
