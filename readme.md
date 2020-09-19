@@ -1,6 +1,9 @@
 # About
 This is a plugin tool for Godot that updates editor settings based on a config file in the current project directory.
 
+## License
+MIT
+
 ## How to use this plugin
 - Create a config file named *editor_settings.cfg*
 - Add a section to the config file named *[override]*
