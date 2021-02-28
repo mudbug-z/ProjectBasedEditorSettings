@@ -1,5 +1,7 @@
 # About
 This is a plugin tool for Godot that updates editor settings based on a config file in the current project directory.
+I made this plugin to facilitate multiplayer development, so that I can debug more than one Godot instance at a time
+without needed to manually change to ports every time.
 
 ## License
 MIT
